@@ -2,8 +2,8 @@ name:                fds-input-parser
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/fds-input-parser#readme
-license:             BSD3
+homepage:            https://github.com/JakeOShannessy/fds-input-parser#readme
+license:             MPL=2.0
 license-file:        LICENSE
 author:              Jake O'Shannessy
 maintainer:          joshannessy@gmail.com
@@ -19,7 +19,7 @@ library
     , Text.FDSInputParser.Spec
   build-depends:       base >= 4.7 && < 5
     , containers
-    , namelist-parser
+    , namelist-parser >= 0.2.1
     , parsec
     , text
   default-language:    Haskell2010
