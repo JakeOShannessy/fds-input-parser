@@ -3,7 +3,7 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/JakeOShannessy/fds-input-parser#readme
-license:             MPL=2.0
+license:             MPL-2.0
 license-file:        LICENSE
 author:              Jake O'Shannessy
 maintainer:          joshannessy@gmail.com
