@@ -1,4 +1,6 @@
 resolver: lts-12.5
 packages:
 - .
-- ../namelist-parser
+extra-deps:
+- git: https://github.com/JakeOShannessy/namelist-parser.git
+  commit: 996a1d06dd4a45b6c0559b1cc24f00a2e5867237
