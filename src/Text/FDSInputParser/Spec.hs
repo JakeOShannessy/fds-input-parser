@@ -435,6 +435,7 @@ fdsSpec = M.fromList
         , ("C_FACTOR", PSDouble)
         , ("DENSITY", PSDouble)
         , ("DIAMETER", PSDouble)
+        , ("DROPLET_VELOCITY", PSDouble)
         , ("EMISSIVITY", PSDouble)
         , ("FLOW_RAMP", PSString)
         , ("FLOW_RATE", PSDouble)
